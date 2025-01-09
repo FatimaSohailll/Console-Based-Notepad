@@ -66,6 +66,6 @@ Used to manage text across lines.
 - **Backspace:** Delete the character at the cursor.  
 - **Enter:** Move to a new line or execute search.
 - **@:** request for word completion.
-- ** *:** request for sentence completion.
+- *aisterik:** request for sentence completion.
 - **Tab:** Display suggestions from the ChilliMilli Tree.  
 - **Esc:** Return to the main menu.  
