@@ -64,6 +64,8 @@ Used to manage text across lines.
 ### **Keyboard Shortcuts**
 - **Arrow Keys:** Navigate the cursor.  
 - **Backspace:** Delete the character at the cursor.  
-- **Enter:** Move to a new line or execute search.  
+- **Enter:** Move to a new line or execute search.
+- **@:** request for word completion.
+- ** *:** request for sentence completion.
 - **Tab:** Display suggestions from the ChilliMilli Tree.  
 - **Esc:** Return to the main menu.  
